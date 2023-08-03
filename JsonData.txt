@@ -1,0 +1,25 @@
+{
+"Name": "Karan",
+"Adddress": "Kolkata",
+"Job_Description": "Software Developer",
+"request": {
+	"createdBy": "unknown",
+	"comment": "Software",
+	"Closure":[  
+        {  
+           "type":"AB",
+           "country":[  
+              "India",
+              "Pakistan"
+           ]
+        },
+		{  
+           "type":"CD",
+           "country":[  
+              "India",
+              "Pakistan"
+           ]
+        }
+     ]
+}
+}
